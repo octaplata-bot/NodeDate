@@ -1,0 +1,15 @@
+{
+  "name": "nodedate",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "date",
+    "nodejs"
+  ],
+  "author": "Ocatavio Gonzalez Plata",
+  "license": "MIT",
+  "description": "Una utilidad para manejar fechas en fomato timestamp y long time."
+}
